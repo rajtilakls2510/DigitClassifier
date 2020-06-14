@@ -2,8 +2,10 @@
 
 <img src="https://github.com/rajtilakls2510/DigitClassifier/blob/master/Project%20demo2.png">
 
-## Project demo video
+## Project demo video: 
 
+## Project Link(Deployed on *Heroku*):
+https://hand-written-digit-recognizer.herokuapp.com/
 
 ### Aim
 This project aims to recognize a digit that is drawn on the canvas below.
@@ -50,7 +52,7 @@ Training Process:
 
 <img src="https://github.com/rajtilakls2510/DigitClassifier/blob/master/Model_Architecture.png">
 
-6. Applied Sparse Categorical Crossentropy.
+6. Applied Sparse Categorical Crossentropy loss function.
 7. The submission part is for the generation of submission file for the kaggle Competition.(https://www.kaggle.com/c/digit-recognizer)
 
 #### Accuracy:
