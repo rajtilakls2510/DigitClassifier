@@ -16,7 +16,7 @@ decorator==4.4.2
 docutils==0.16
 Flask==1.1.2
 Flask-Compress==1.4.0
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 flask-mongoengine==0.9.5
 Flask-MySQL==1.5.1
 Flask-MySQLdb==0.2.0
